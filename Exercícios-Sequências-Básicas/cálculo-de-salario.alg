@@ -12,5 +12,5 @@ escreva ("digite a quantidade de dias que vc trabalhol no mes: ")
 leia (dias)
 salario<- dias*(25*8)
 escreva ("este mes vc vai receber: ",salario)
-// Seção de Comandos 
+
 fimalgoritmo
