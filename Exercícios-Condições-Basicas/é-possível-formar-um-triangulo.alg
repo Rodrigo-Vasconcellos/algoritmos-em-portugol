@@ -6,8 +6,10 @@ algoritmo "Exercício-1"
 // Data : 27/09/2022
 // Seção de Declarações 
 var
-    n1,n2,n3:real  
+    n1, n2, n3: real  
 inicio
+// Seção de Comandos 
+
       escreva ("digite o primeiro lado do triangulo: ")
       leia (n1)
       escreva ("digite o segundo lado do triangulo: ")
@@ -19,4 +21,5 @@ inicio
       senao
         escreva ("não pode formar um triangulo")
       fimse
+      
 fimalgoritmo
