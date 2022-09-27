@@ -3,11 +3,14 @@ Crie um programa que leia o número de dias trabalhados em um mês e mostre o sa
 
 algoritmo "Exercício-2"
 // Autor : Rodrigo Vasconcellos / Professor Guanabara
-// Data : 30/06/2022
+// Data : 27/09/2022
 // Seção de Declarações 
 var
    dias, salario: real
+
 inicio
+// Seção de Comandos 
+
 escreva ("digite a quantidade de dias que vc trabalhol no mes: ")
 leia (dias)
 salario<- dias*(25*8)
