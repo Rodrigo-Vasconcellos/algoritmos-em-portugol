@@ -3,7 +3,7 @@ Escreva um programa que leia um número qualquer e mostre a tabuada desse númer
 
 algoritmo "exercício-1"
 // Autor : Rodrigo Vasconcellos / Professor Guanabara
-// Data : 06/07/2022
+// Data : 27/09/2022
 // Seção de Declarações 
 
 var
