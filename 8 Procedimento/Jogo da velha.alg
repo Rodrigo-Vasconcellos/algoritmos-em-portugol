@@ -225,5 +225,4 @@ inicio
               vencedor1()
               vencedor2()
               velha()
-
       fimenquanto
