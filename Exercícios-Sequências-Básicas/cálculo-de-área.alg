@@ -8,9 +8,10 @@ algoritmo "exercício-1"
 
 var
      largura,altura,area,quantidade:real  
-        
+
 inicio
 // Seção de Comandos 
+
 escreva ("digite a largura da parede: ")
 leia (largura)
 escreva ("digite a altura da parede: ")
@@ -19,4 +20,5 @@ area<- largura*altura
 quantidade<- area/2
 escreval ("a area da parede é: ",area," m²")
 escreva ("a quantidade de tinta a ser comprada é: ",quantidade," litros")
+
 fimalgoritmo
