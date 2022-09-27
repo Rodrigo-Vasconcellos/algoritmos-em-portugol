@@ -2,8 +2,8 @@
  Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
 
 algoritmo "exercício-1"
-// Função :
-// Autor : Rodrigo vasconcellos 
+
+// Autor : Rodrigo vasconcellos / Professor Guanabara
 // Data : 27/09/2022
 // Seção de Declarações
 var
