@@ -217,21 +217,13 @@ inicio
       enquanto (lup = 0) faca
 
               limpatela
-
               dispay()
-
               jogador1()
-
               limpatela
-
               dispay()
-
               jogador2()
-
               vencedor1()
-
               vencedor2()
-
               velha()
 
       fimenquanto
