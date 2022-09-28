@@ -18,6 +18,8 @@ var
    fimprocedimento
 
 inicio
+// Seção de Comandos 
+
       topo()
 
       escreval ("digite um numero para o inicio")
